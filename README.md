@@ -1,6 +1,6 @@
 # xxh
 
-> A Vue.js project
+> 自己用cli搭建的vue框架，用了mongodb 和 express 实现了数据库的增删改查
 
 ## Build Setup
 
