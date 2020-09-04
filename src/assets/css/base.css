@@ -1,0 +1,8 @@
+:root {
+  --main-bg-color: pink;
+  --main-bd-base: 1px solid #e4e7ed;
+}
+
+ul, li {
+  list-style: none;
+}
